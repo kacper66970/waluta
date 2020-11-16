@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Waluta</string>
+    <string name="MAM">MAM</string>
+    <string name="EUR_PLN">EUR-PLN</string>
+    <string name="PLN_EUR">PLN-EUR</string>
+    <string name="USD_PLN">USD-PLN</string>
+    <string name="PLN_USD">PLN-USD</string>
+    <string name="PLN_CHF">PLN-CHF</string>
+    <string name="CHF_PLN">CHF-PLN</string>
+    <string name="GBP_PLN">GBP-PLN</string>
+    <string name="PLN_GBP">PLN-GBP</string>
+</resources>
